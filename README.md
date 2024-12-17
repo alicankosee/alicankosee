@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Can Köse</h1>
-<h3 align="center">I'm a computer engineering student and also trying to be an IOS Developer</h3>
+<h3 align="center">I'm a computer engineering student and an IOS Developer</h3>
 
 - 🌱 I’m currently learning **Swift**
 
